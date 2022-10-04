@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import GridSection from '../components/GridSection'
 import SubHero from '../components/SubHero'
 import SubHero2 from '../components/Subhero2'
 import SubHero3 from '../components/SubHero3'
@@ -18,6 +19,7 @@ export default function Home() {
       <SubHero/>
       <SubHero2/>
       <SubHero3/>
+      <GridSection/>
       </main>
     </div>
   )
