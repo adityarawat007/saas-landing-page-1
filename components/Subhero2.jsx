@@ -39,6 +39,7 @@ const SubHero2 = () => {
               </div>
             </div>
           </div>
+                {/* Image */}
           <div className="items-center md:w-1/2 lg:w-2/3">
             <img src="/illustration-intro.svg" alt=" bg one" />
           </div>
