@@ -17,7 +17,7 @@ const GridSection = () => {
                   Easy integration, easier maintenance
                 </h5>
               </div>
-              <p className="text-md font-medium text-white md:text-xl">
+              <p className="text-md font-medium text-white md:text-lg">
                 Metronome frees engineering resources with fast deployment and
                 low-effort maintenance. We integrate painlessly with your
                 existing tech stack, and enable no-code adjustments to pricing,
@@ -36,7 +36,7 @@ const GridSection = () => {
                   Easy integration, easier maintenance
                 </h5>
               </div>
-              <p className="text-md font-medium  md:text-xl">
+              <p className="text-md font-medium  md:text-lg">
                 Metronome frees engineering resources with fast deployment and
                 low-effort maintenance. We integrate painlessly with your
                 existing tech stack, and enable no-code adjustments to pricing,
@@ -55,7 +55,7 @@ const GridSection = () => {
                   Easy integration, easier maintenance
                 </h5>
               </div>
-              <p className="text-md font-medium  md:text-xl">
+              <p className="text-md font-medium  md:text-lg">
                 Metronome frees engineering resources with fast deployment and
                 low-effort maintenance. We integrate painlessly with your
                 existing tech stack, and enable no-code adjustments to pricing,
@@ -74,7 +74,7 @@ const GridSection = () => {
                   Easy integration, easier maintenance
                 </h5>
               </div>
-              <p className="text-md font-medium  md:text-xl">
+              <p className="text-md font-medium  md:text-lg">
                 Metronome frees engineering resources with fast deployment and
                 low-effort maintenance. We integrate painlessly with your
                 existing tech stack, and enable no-code adjustments to pricing,
